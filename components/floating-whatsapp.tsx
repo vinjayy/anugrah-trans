@@ -8,7 +8,7 @@ export function FloatingWhatsApp() {
 
   return (
     <a
-      href="https://api.whatsapp.com/send/?phone=6285691945275&text=Halo+Alfa+Trans+Java%2C+saya+ingin+bertanya"
+      href="https://api.whatsapp.com/send/?phone=6285691945275&text=Halo+Anugrah+Trans+Mandiri%2C+saya+ingin+bertanya"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 flex items-center gap-3 bg-[#25D366] text-white rounded-full shadow-2xl hover:shadow-green-500/50 transition-all duration-300 hover:scale-110 animate-fade-in"

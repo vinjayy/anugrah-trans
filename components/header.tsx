@@ -24,7 +24,7 @@ export function Header() {
             width={160}
             height={48}
             priority
-            className="h-20 w-auto object-contain transition-transform duration-300 hover:scale-105"
+            className="h-18 w-auto object-contain transition-transform duration-300 hover:scale-105"
           />
         </Link>
 

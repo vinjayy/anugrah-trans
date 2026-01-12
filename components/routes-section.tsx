@@ -61,7 +61,7 @@ export function RoutesSection() {
                   asChild
                 >
                   <a
-                    href={`https://api.whatsapp.com/send/?phone=6285691945275&text=Halo+Alfa+Trans+Java%2C+saya+ingin+pesan+travel+${route.from}+ke+${route.to}`}
+                    href={`https://api.whatsapp.com/send/?phone=6285691945275&text=Halo+Anugrah+Trans+Mandiri%2C+saya+ingin+pesan+travel+${route.from}+ke+${route.to}`}
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -82,7 +82,7 @@ export function RoutesSection() {
             </p>
             <Button size="lg" variant="secondary" asChild className="transition-all duration-300 hover:scale-105">
               <a
-                href="https://api.whatsapp.com/send/?phone=6285691945275&text=Halo+Alfa+Trans+Java%2C+saya+ingin+bertanya+tentang+rute+perjalanan"
+                href="https://api.whatsapp.com/send/?phone=6285691945275&text=Halo+Anugrah+Trans+Mandiri%2C+saya+ingin+bertanya+tentang+rute+perjalanan"
                 target="_blank"
                 rel="noopener noreferrer"
               >
