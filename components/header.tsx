@@ -48,7 +48,7 @@ export function Header() {
             className="bg-[#25D366] hover:bg-[#20BA5A] text-white hidden md:flex"
           >
             <a
-              href="https://api.whatsapp.com/send/?phone=6281413215200&text=Halo+Anugrah+Trans%2C+saya+ingin+bertanya+tentang+layanan+travel"
+              href="https://api.whatsapp.com/send/?phone=6285691945275&text=Halo+Anugrah+Trans%2C+saya+ingin+bertanya+tentang+layanan+travel"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -84,7 +84,7 @@ export function Header() {
 
             <Button asChild className="bg-[#25D366] text-white w-full">
               <a
-                href="https://api.whatsapp.com/send/?phone=6281413215200"
+                href="https://api.whatsapp.com/send/?phone=6285691945275"
                 target="_blank"
               >
                 <WhatsAppIcon className="mr-2 h-4 w-4" />

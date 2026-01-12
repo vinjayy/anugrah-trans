@@ -42,7 +42,7 @@ export function HeroSection() {
             className="bg-[#25D366] hover:bg-[#20BA5A] text-white text-lg px-8 py-6 transition-all duration-300 hover:scale-105"
           >
             <a
-              href="https://api.whatsapp.com/send/?phone=6281413215200&text=Halo+Alfa+Trans+Java%2C+saya+ingin+memesan+travel"
+              href="https://api.whatsapp.com/send/?phone=6285691945275&text=Halo+Alfa+Trans+Java%2C+saya+ingin+memesan+travel"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center"
