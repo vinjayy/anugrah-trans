@@ -4,7 +4,7 @@ import { WhatsAppIcon } from "./whatsapp-icon"
 import { Users, Clock } from "lucide-react"
 
 const fleet = [
-  { name: "Avanza", seats: 6, image: "/toyota-avanza-silver.jpg" },
+  { name: "Avanza Veloz", seats: 6, image: "/veloz.jpg" },
   { name: "Ertiga", seats: 6, image: "/suzuki-ertiga-white.jpg" },
   { name: "Innova Reborn", seats: 6, image: "/toyota-innova-reborn-silver.jpg" },
   { name: "Innova Zenix", seats: 6, image: "/toyota-innova-zenix-black.jpg" },
